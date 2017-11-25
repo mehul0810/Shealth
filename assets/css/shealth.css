@@ -1,0 +1,11 @@
+.shealth-shortcode-wrap { border: 2px solid #CCC; padding: 15px; }
+
+.shealth-shortcode-wrap.shealth-style-1 .shealth-domain-name { display: block; width: 100%; margin: 0 9px 10px 0; }
+
+.shealth-shortcode-wrap.shealth-style-1 .shealth-spinner { background: url("../images/spinner.gif") no-repeat; background-size: 16px 16px; float: right; display: none; width: 16px; height: 16px; margin: 5px 5px 0; }
+
+.shealth-shortcode-wrap.shealth-style-1 .shealth-results { display: block; width: 100%; margin: 5px 0; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic2hlYWx0aC5jc3MiLCJzb3VyY2VzIjpbInNoZWFsdGguc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxBQUFBLHVCQUF1QixDQUFDLEVBQ3RCLE1BQU0sRUFBRSxjQUFjLEVBQ3RCLE9BQU8sRUFBRSxJQUFJLEdBMkJkOztBQTdCRCxBQU1JLHVCQU5tQixBQUlyQixnQkFBaUIsQ0FFZixvQkFBb0IsQ0FBQyxFQUNuQixPQUFPLEVBQUUsS0FBSyxFQUNkLEtBQUssRUFBRSxJQUFJLEVBQ1gsTUFBTSxFQUFFLFlBQVksR0FDckI7O0FBVkwsQUFZSSx1QkFabUIsQUFJckIsZ0JBQWlCLENBUWYsZ0JBQWdCLENBQUMsRUFDZixVQUFVLEVBQUUsNEJBQTRCLENBQUMsU0FBUyxFQUNsRCxlQUFlLEVBQUUsU0FBUyxFQUMxQixLQUFLLEVBQUUsS0FBSyxFQUNaLE9BQU8sRUFBRSxJQUFJLEVBQ2IsS0FBSyxFQUFFLElBQUksRUFDWCxNQUFNLEVBQUUsSUFBSSxFQUNaLE1BQU0sRUFBRSxTQUFTLEdBQ2xCOztBQXBCTCxBQXNCSSx1QkF0Qm1CLEFBSXJCLGdCQUFpQixDQWtCZixnQkFBZ0IsQ0FBQyxFQUNmLE9BQU8sRUFBRSxLQUFLLEVBQ2QsS0FBSyxFQUFFLElBQUksRUFDWCxNQUFNLEVBQUUsS0FBSyxHQUNkIn0= */
+
+/*# sourceMappingURL=sourcemaps/shealth.css.map */

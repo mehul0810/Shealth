@@ -1,0 +1,23 @@
+{
+  "name": "shealth",
+  "version": "1.0.0",
+  "description": "This Plugin will help bloggers to have a domain checker tool in their website to increase affiliate sales",
+  "author": "mehulgohil",
+  "license": "GPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mehul0810/Shealth"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^1.12.0",
+    "gulp-uglify": "^1.5.4",
+    "gulp-uglifycss": "^1.0.8"
+  }
+}
